@@ -1,19 +1,33 @@
-# Amica — AI Emotional Companion (Demo Repo)
+# Amica — App Demo
 
-This is a demo repository showcasing Amica’s design, architecture, and concept.  
-Production source code, proprietary AI models, and API keys are intentionally excluded.
+> A quick look at Amica in action — showing different emotional companion modes in dark mode.
 
-## Demo
-- 🎥 **Video walkthrough:** [Watch on Loom](https://www.loom.com/share/83bc0640fc564b22bf261fb2fcb60330?sid=e96fea7a-75c0-4af0-b655-382a890b4ce7)
-- 📸 **Screenshots & GIFs:** see the `/demo` folder
+---
 
-## What's Inside
-- `/docs` — architecture notes and short case study
-- `/snippets` — minimal, non-sensitive Flutter UI snippet
-- `/demo` — screenshots & GIFs
-- `LICENSE` — demo content license
+## 📱 App Mockups
 
-## Not included (by design)
-- Production source code  
-- Proprietary AI models  
-- API keys  
+Here’s a preview of Amica in **Friend**, **Mentor/Coach**, and **Therapist** modes:
+
+![Amica App Mockups](mockup.png)
+
+---
+
+## 🎯 What You See Here
+
+- **Friend Mode** — Casual, supportive, and fun suggestions.
+- **Mentor/Coach Mode** — Practical, goal-oriented guidance with structure.
+- **Therapist Mode** — Empathetic, calm, and emotionally supportive conversations.
+
+---
+
+## 🗂 Folder Info
+
+- `/docs` — architecture overview and concept notes.  
+- `/snippets` — minimal UI code examples (non-sensitive).  
+- `/demo` — mockups, screenshots, and GIFs.  
+
+---
+
+## 🔒 Note
+
+This is a **demo repository** — production code, API keys, and proprietary prompts are not included for security reasons.
