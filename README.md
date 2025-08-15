@@ -7,7 +7,7 @@
 ## 🎥 Demo
 
 - **Video walkthrough:** [Watch on Loom](https://www.loom.com/share/83bc0640fc564b22bf261fb2fcb60330?sid=e96fea7a-75c0-4af0-b655-382a890b4ce7)  
-- **Screenshots & GIFs:** See the `/demo` folder
+- **Screenshots:** See the `/demo` folder
 
 ---
 
