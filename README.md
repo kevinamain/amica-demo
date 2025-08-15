@@ -15,7 +15,7 @@
 
 - `/docs` — architecture notes and a short case study  
 - `/snippets` — a minimal, non-sensitive Flutter UI snippet  
-- `/demo` — placeholders for screenshots/GIFs  
+- `/demo` — placeholders for screenshots  
 - `.gitignore` — keep it clean  
 
 ---
