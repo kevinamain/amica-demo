@@ -67,5 +67,5 @@ It supports **four adaptive modes** — Friend, Romantic, Mentor/Coach, Therapis
 - Safety red team prompts and automated regressions
 
 ## 9) FAQ
-**Why no source code here?**  
+**Why no source code?**  
 To protect proprietary work while still demonstrating design and development quality.
