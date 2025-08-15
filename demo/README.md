@@ -26,8 +26,3 @@ Here’s a preview of Amica in **Friend**, **Mentor/Coach**, and **Therapist** m
 - `/snippets` — minimal UI code examples (non-sensitive).  
 - `/demo` — mockups, screenshots, and GIFs.  
 
----
-
-## 🔒 Note
-
-This is a **demo repository** — production code, API keys, and proprietary prompts are not included for security reasons.
