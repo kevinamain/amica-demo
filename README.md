@@ -30,7 +30,4 @@
 
 ## 📬 Contact
 
-**Name:** Kevin Amain  
-**Email:** kevinamain20@gmail.com  
-**LinkedIn:** https://linkedin.com/in/kevin-amain-38099b153  
-**GitHub:** https://github.com/kevinamain
+For inquiries about this project, please check the contact information on my GitHub profile.
