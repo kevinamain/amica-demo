@@ -24,5 +24,5 @@ Here’s a preview of Amica in **Friend**, **Mentor/Coach**, and **Therapist** m
 
 - `/docs` — architecture overview and concept notes.  
 - `/snippets` — minimal UI code examples (non-sensitive).  
-- `/demo` — mockups, screenshots, and GIFs.  
+- `/demo` — mockups and screenshots.  
 
